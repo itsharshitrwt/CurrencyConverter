@@ -1,5 +1,5 @@
 # CurrencyConverter
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Build on top of React , currencyconverter converts the currencies from all over the world to one format or other. 
 
 
 
